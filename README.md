@@ -1,2 +1,5 @@
-# BoostrapProject.github.io
-This project is basically based on multiple pages website using BootStrap .  And I also have uploaded images that I have click by me and the topic of the BootStrap project is Bombay Sea Face.
+#Internal Assessment
+
+1.clone the file to your desktop
+2.make the changes in "index.html" and "style.css file"
+
